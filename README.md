@@ -56,4 +56,4 @@ Mockup of main view. I should really get some device with pen input...
 Refer to the LICENSE file for the specifics of GPL3.
 
 ## Helping
-This project is still in alpha. Any help is appreciated, tough.
+Nope, this project is still at planning level.
